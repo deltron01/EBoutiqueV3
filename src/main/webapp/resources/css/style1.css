@@ -1,0 +1,26 @@
+div.cadre {
+	
+	border: 1px dotted green;
+	border-radius: 10px;
+	padding: 10px;  /* definir distance entre bordure et contenu */
+	margin: 10px;   /* definir distance entre bordure et monde extérieur */
+}
+
+table.tab1 th{
+	border: 1px dotted gray;
+	background: pink;
+	padding: 5px;
+}
+table.tab1 td{
+	border: 1px dotted gray;
+	background: yellow;
+	padding: 5px;
+}
+
+.errors{
+	color : red;
+}
+.cacher{
+	display: none;
+	visibility: hidden;
+}
